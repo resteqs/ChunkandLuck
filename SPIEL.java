@@ -41,6 +41,6 @@ public class SPIEL //Verwaltet das Spiel
         System.out.println(wuerfel2.ZahlAusgeben());
         System.out.println(wuerfel3.ZahlAusgeben());
         System.out.print("Auszahlung: " + auszahlung);
-        System.out.print("Reingewinn: " + reingewinn);
+        System.out.print(" ,Reingewinn: " + reingewinn);
     }
 } 
